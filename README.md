@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Thiago+Soares,Full+Stack+Python+Developer;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Thiago+Soares, Full+Stack+Python+Developer;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 ## Olá 👋
 
 ###### Sobre Thiago
@@ -67,3 +67,4 @@ Habilidades em Excel, Word e Power BI.
 🔗 &nbsp;**Conecte-se comigo!**
 
 <a href="https://www.linkedin.com/in/thiago-soares-desenvolvedor-front-end/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://thiago-papudim.github.io/imersaocss/" target="blank"><img align="center" src="https://img.icons8.com/ios7/600w/000000/domain.png" alt="sitepessoal" height="30" width="40" /></a>
