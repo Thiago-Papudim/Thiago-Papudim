@@ -22,7 +22,7 @@ Habilidades em Excel, Word e Power BI.
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiago-papudim&repo=Cartorioebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiago-papudim&repo=imersaocss&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
