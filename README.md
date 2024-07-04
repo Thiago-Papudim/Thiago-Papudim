@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Thiago+Soares, Full+Stack+Python+Developer;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Thiago+Soares,+Full+Stack+Python+Developer;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 ## Olá 👋
 
 ###### Sobre Thiago
