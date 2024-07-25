@@ -2,7 +2,7 @@
 ## Olá 👋
 
 ###### Sobre Thiago
-Desenvolvedor Full Stack Python na Ebac – Escola Britânica de Artes Criativas e Tecnologia, formado em Administração de Empresas – pelo Centro Universitário de João Pessoa. Profissional com perfil sociável, bom trabalho em equipe, organizo bem o uso do tempo e sou flexível. Atuei em empresas desenvolvendo planilhas gerenciais e desenvolvendo BI, buscando o crescimento e desenvolvimento da empresa.
+Desenvolvedor Full Stack Python pela Ebac – Escola Britânica de Artes Criativas e Tecnologia, formado em Administração de Empresas – pelo Centro Universitário de João Pessoa. Profissional com perfil sociável, bom trabalho em equipe, organizo bem o uso do tempo e sou flexível. Atuei em empresas desenvolvendo planilhas gerenciais e desenvolvendo BI, buscando o crescimento e desenvolvimento da empresa.
 
 Como administrador de empresas tenho facilidade em criar estratégias, resolver conflitos de forma construtiva e respeitosa, trabalho bem em equipe e estou sempre em busca de novos conhecimentos.
 Apaixonado por computador, quando criança já desenvolvia minhas primeiras linhas de códigos em blocos de notas, dando vida a sites. Hoje, sou um grande entusiasta da área de programação, sempre estudando e tentando me capacitar cada vez mais.
